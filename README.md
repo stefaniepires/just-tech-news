@@ -33,4 +33,4 @@ User posts an article from another source and other users vote or comment on the
   Email: stefaniepires91@gmail.com
   GitHub: https://github.com/stefaniepires
   
-  ![Screenshot]()
+  ![Screenshot](https://github.com/stefaniepires/just-tech-news/blob/main/public/screenshot_tech_news.png)
